@@ -1,0 +1,45 @@
+.section {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.section h3 {
+  color: #38015c;
+  font-size: 2rem;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 70%;
+  margin-left: 250px;
+}
+
+.table td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.Font-Size {
+  color: #fff;
+}
+
+.Font-Color {
+  color: red;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table tr:hover {
+  background-color: #ddd;
+}
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #38015c;
+  color: white;
+}
